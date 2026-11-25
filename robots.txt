@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yotucroni95-droid.github.io/sao-bento-salgados/sitemap.xml

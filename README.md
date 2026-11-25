@@ -2,6 +2,8 @@
 
 Site institucional de página única da São Bento Salgados.
 
+**No ar:** https://yotucroni95-droid.github.io/sao-bento-salgados/
+
 - HTML e CSS puros, sem dependências, otimizado para celular.
 - Pedidos e encomendas pelo WhatsApp: (87) 99677-7455.
 
